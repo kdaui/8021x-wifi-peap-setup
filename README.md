@@ -1,0 +1,1 @@
+A setup script for connecting to WPA2-Enterprise (PEAP/MSCHAPv2) Wi-Fi networks using iwd on Arch Linux. Mainly for Arch Linux / it's derivatives. The script should install iwd if its missing, writes the config to /var/lib/iwd/<SSID>.8021x, and enables the iwd service.
